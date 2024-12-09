@@ -158,11 +158,11 @@ Analyzing historical trends in **geographical regions** and **demographics** of 
 
 #### **Medal Data Insights**:
 - **Age**:
-  - Younger athletes tend to dominate sports that require agility and flexibility (e.g., gymnastics), whereas older athletes tend to dominate strategy-based sports (e.g., shooting).
+   *Younger athletes tend to dominate sports that require agility and flexibility (e.g., gymnastics), whereas older athletes tend to dominate strategy-based sports (e.g., shooting).*
 - **Gender**:
-  - Increasing female participation presents opportunities for gender-balanced sponsorships.
+   *Increasing female participation presents opportunities for gender-balanced sponsorships.*
 - **Diversity**:
-- Multidimensional medal winners speak to international and diverse audiences.
+  *Multidimensional medal winners speak to international and diverse audiences.*
 
 #### Marketing and Sponsorship Opportunities:
 - Target Youth Markets
